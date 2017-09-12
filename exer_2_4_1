@@ -1,0 +1,9 @@
+#include<iostream.h>
+void main()
+{
+int i,a;
+i=5;
+a=i++;
+count<<i<<a<<endl;
+}
+i=6 a=5
