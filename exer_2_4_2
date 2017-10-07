@@ -4,6 +4,6 @@ void main()
 int i,a;
 i=5;
 a=++i;
-cont<<i<<a<<endl;
+cont<<i<<" "<<a<<endl;
 }
 i=6 a=6
