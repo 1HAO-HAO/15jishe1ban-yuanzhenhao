@@ -4,7 +4,7 @@ void main()
 {
 	float r,s,c,pi;
 	int k;
-	cout<<"Please enter the value of r and b:"<<endl;
+	cout<<"Please enter the value of r and k:"<<endl;
 	cin>>r>>k;
 	pi=3.1415926;
 	s=pi*r*r;
