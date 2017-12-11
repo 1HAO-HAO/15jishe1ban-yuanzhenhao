@@ -3,7 +3,7 @@
 void main()
 {
 	int i,a[N];
-	cout<<"ÇëÊäÈë10¸öÕûÊı£º"<<endl;
+	cout<<"è¯·è¾“å…¥10ä¸ªæ•´æ•°ï¼š"<<endl;
 	for(i=0;i<N;i++)
 		cin>>a[i];
 	int *pointer=a;
